@@ -1,0 +1,14 @@
+/*-- Notification Popup Admin Style
+----------------------------------------*/
+#notificationpopup_admin .ptable{
+	width: 95%;
+}
+#notifipopup_update{
+	margin-top:28px;
+}
+#notificationpopup_admin .help{
+	color:grey;
+}
+#notificationpopup_admin .title_text{
+	width:100%;
+}
